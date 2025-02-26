@@ -64,10 +64,10 @@ Age         n       E. P.      S.E.        Adj s.e.    CI                   CI A
 strCustomerName:        Hungarian
 Constructor parameters (customerID, customerName, email):       Pascal
 getEmail (returning strEmail):      Hungarian
-strSKU:         Hungarian
+strSKU:         Acronym
 prodItem:       Hungarian
 AddOrderItem:       Pascal
-strOTP:         Hungarian
+strOTP:         Acronym
 
 9.
 Bottom-up testing
@@ -84,5 +84,3 @@ E  Undefined Variable
 F  Incorrect Loop Condition
 G  Missing Semicolon
 H  Ok Case
-
-                                            Check 8
