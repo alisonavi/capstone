@@ -18,6 +18,17 @@ Lower: 36.54
 | n=1000      | 1261              | 3328                   |
 
 3.
+========================================================
+   N    | alpha  | lambda | Final Cost |  max|theta| 
+========================================================
+   100 |  0.10 |   1.00 |       0.29 |       1.59
+  1000 |  0.20 |   2.00 |       0.20 |       3.77
+ 10000 |  0.30 |  10.00 |       0.33 |       2.02
+========================================================
+
+Number of '1' predictions in first 10 rows: 6
+
+4.
 
 
 5.
@@ -38,6 +49,8 @@ D → Performance Requirements
 E → Security Requirements
 F → Usability Requirements
 
+7. калькулятормен стей салндар халява все формулы есть
+
 8.
 strCustomerName: Hungarian
 Constructor parameters (customerID, customerName, email): Pascal
@@ -47,4 +60,10 @@ prodItem: Hungarian
 AddOrderItem: Pascal
 strOTP: Acronym
 
-9 и 10 варианты ответов нужны
+9.
+Bottom-up testing
+Stability testing
+Integration test
+Stability testing
+
+10 варианты ответов нужны
