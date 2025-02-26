@@ -66,4 +66,12 @@ Stability testing
 Integration test
 Stability testing
 
-10 варианты ответов нужны
+10 
+A OK CASE
+B Missing Semicolumn
+C Incorrect comparison index
+D Index out of range bug
+E Missing Semicolumn
+F OK CASE
+G Missing Semicolumn
+H OK CASE
