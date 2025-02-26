@@ -71,7 +71,7 @@ A OK CASE
 B Missing Semicolumn
 C Incorrect comparison index
 D Index out of range bug
-E Missing Semicolumn
-F OK CASE
+E Undefined Variable
+F Incorrect Loop Condition
 G Missing Semicolumn
 H OK CASE
